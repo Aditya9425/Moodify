@@ -26,7 +26,12 @@ Solving this taught me the importance of simplicity, user-friendliness, and cons
 ## Tech Stack 
 - HTML
 - CSS
+- Tailwind CSS
 - JavaScript
-
+- JSON
+- DOM Manipulation
+- Event Handling
+- Fluvio
+  
 ## License 📄
 This project is open-source and free to use.
